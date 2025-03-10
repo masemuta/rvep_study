@@ -6,7 +6,7 @@ R scripts to generate figures from the present study
 
 The R script `R/rbep_study.R` can be run to reproduce the results of the following study:
 
-**Macedo, S., Danner, M.A., FABRIS, F &, Tagliari, M.M.**. 2025. Como a safra do pinhão afeta a evasão escolar? Um estudo de caso no Município de Clevelândia, Paraná – Brasil
+**Macedo, S., Danner, M.A., Fabris, F &, Tagliari, M.M.**. 2025. Como a safra do pinhão afeta a evasão escolar? Um estudo de caso no Município de Clevelândia, Paraná – Brasil
 
 To run the script, you can either execute the `rbep_study.sh` shellscript file or run the R script under a R GUI such as RStudio.
 
