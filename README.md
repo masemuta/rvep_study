@@ -18,7 +18,7 @@ Data can be found in the `data` folder. The `study_dataset` folder includes the 
 
 All the results are saved in the `resultados` folder.
 
-<img alt="Série temporal (2010-2023) de colheita e comércio de pinhão entre os principais Estados produtores" src="outputs/pinhão_prod_valor_juntos2.png" width="1000">
+<img alt="Série temporal (2010-2023) de colheita e comércio de pinhão entre os principais Estados produtores" src="resultados/pinhão_prod_valor_juntos2.png" width="1000">
 
 Figure 1: **Série temporal (2010-2023) de colheita e comércio de pinhão entre os principais Estados produtores**.
 
