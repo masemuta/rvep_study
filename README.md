@@ -22,6 +22,10 @@ All the results are saved in the `resultados` folder.
 
 Figure 1: **Série temporal (2010-2023) de colheita e comércio de pinhão entre os principais Estados produtores**.
 
+<img alt="Evasão escolar em Clevelândia - PR entre 2019 e 2024" src="resultados/evasão_cleve_pinhão_motivos2png" width="1000">
+
+Figure 2: **Evasão escolar em Clevelândia - PR entre 2019 e 2024**.
+
 ## License
 
 Data and R script are available under the GNU General Public License version 3 (see `LICENSE` file).
